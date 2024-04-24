@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_homePage_to_firstPage
+id button
+id buttonAdd
+id buttonDelete
+id checkboxCompleted
+id editTextDescription
+id editTextTitle
+id firstPage
+id fragmentContainerView2
+id homePage
+id main
+id navbar
+id recyclerView
+id textView
+id textViewDescription
+id textViewTitle
+layout activity_main
+layout fragment_first_page
+layout fragment_home_page
+layout item_list
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation navbar
+string app_name
+string hello_blank_fragment
+string sil
+style Base.Theme.Odev2024
+style Theme.Odev2024
+xml backup_rules
+xml data_extraction_rules
