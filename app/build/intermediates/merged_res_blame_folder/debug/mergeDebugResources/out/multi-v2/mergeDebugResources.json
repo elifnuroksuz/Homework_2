@@ -2614,23 +2614,6 @@
             "outputFile": "com.elifnuroksuz.odev2024.app-debug-47:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "16,120,190",
-                        "endColumns": "45,69,35",
-                        "endOffsets": "57,185,221"
-                    },
-                    "to": {
-                        "startLines": "1982,2009,2134",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "131054,133912,151751",
-                        "endColumns": "45,69,35",
-                        "endOffsets": "131095,133977,151782"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ekol\\.gradle\\caches\\transforms-3\\4906643ad736dd32b087398855a2a1d3\\transformed\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -2745,25 +2728,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "100,323",
-                        "endLines": "5,7",
-                        "endColumns": "12,64",
-                        "endOffsets": "317,383"
-                    },
-                    "to": {
-                        "startLines": "2562,6536",
-                        "startColumns": "4,4",
-                        "startOffsets": "179975,458616",
-                        "endLines": "2565,6536",
-                        "endColumns": "12,63",
-                        "endOffsets": "180086,458675"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ekol\\.gradle\\caches\\transforms-3\\4490635aa98f7a695f85d0682de1bb1c\\transformed\\transition-1.4.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -2836,6 +2800,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024 - Kopya\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,323",
+                        "endLines": "5,7",
+                        "endColumns": "12,64",
+                        "endOffsets": "317,383"
+                    },
+                    "to": {
+                        "startLines": "2562,6536",
+                        "startColumns": "4,4",
+                        "startOffsets": "179975,458616",
+                        "endLines": "2565,6536",
+                        "endColumns": "12,63",
+                        "endOffsets": "180086,458675"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ekol\\.gradle\\caches\\transforms-3\\37e6860beace6ffff098d1afef8475bc\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -2852,6 +2835,23 @@
                         "endLines": "506,1112,1113,1114,1122,1123,1124,1810,12679",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25672,66460,66508,66564,67250,67326,67398,120571,766026"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024 - Kopya\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
+                    },
+                    "to": {
+                        "startLines": "648,967",
+                        "startColumns": "4,4",
+                        "startOffsets": "33134,56812",
+                        "endColumns": "41,41",
+                        "endOffsets": "33171,56849"
                     }
                 },
                 {
@@ -2888,23 +2888,6 @@
                         "startOffsets": "124530,133227,149877,149953",
                         "endColumns": "52,56,75,86",
                         "endOffsets": "124578,133279,149948,150035"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,41",
-                        "endOffsets": "92,134"
-                    },
-                    "to": {
-                        "startLines": "648,967",
-                        "startColumns": "4,4",
-                        "startOffsets": "33134,56812",
-                        "endColumns": "41,41",
-                        "endOffsets": "33171,56849"
                     }
                 },
                 {
@@ -3032,6 +3015,23 @@
                         "endLines": "138,141,1061,11266",
                         "endColumns": "55,47,51,24",
                         "endOffsets": "7047,7203,63128,713969"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024 - Kopya\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16,120,190",
+                        "endColumns": "45,69,35",
+                        "endOffsets": "57,185,221"
+                    },
+                    "to": {
+                        "startLines": "1982,2009,2134",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "131054,133912,151751",
+                        "endColumns": "45,69,35",
+                        "endOffsets": "131095,133977,151782"
                     }
                 },
                 {
@@ -4876,7 +4876,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\ekol\\Desktop\\Odev2024 - Kopya\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
